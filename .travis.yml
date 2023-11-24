@@ -9,7 +9,7 @@ dist: bionic
 
 language: java
 
-# A list of available JDKs in Trusty can be seed in:
+# A list of available JDKs in Trusty can be seed in: change 111
 # https://docs.travis-ci.com/user/reference/xenial/#jvm-clojure-groovy-java-scala-support
 jdk: 
  - openjdk8
